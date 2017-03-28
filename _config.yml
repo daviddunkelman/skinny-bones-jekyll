@@ -26,8 +26,8 @@ gems:
 
 # Site owner
 owner:
-  name:
-  email:
+  name: David Dunkelman
+  email: dunkelmand@gmail.com
   twitter:
   google:
     ad-client:
