@@ -1,6 +1,6 @@
 # Site wide configuration
 
-theme:skinny-bones-jekyll
+
 
 
 title: "David Dunkelman"
@@ -41,17 +41,7 @@ owner:
 
 
 
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      read_time: true
-      comments: true
-      share: true
-      related: true
+
 
 
 
