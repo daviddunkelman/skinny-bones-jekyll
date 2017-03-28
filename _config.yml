@@ -1,5 +1,8 @@
 # Site wide configuration
 
+theme:skinny-bones-jekyll
+
+
 title: "David Dunkelman"
 description: "This is a description."
 logo: # 120x120 px default image used for Twitter summary card
@@ -35,6 +38,21 @@ owner:
   bio:
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
+
+
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
 
 
 include:
