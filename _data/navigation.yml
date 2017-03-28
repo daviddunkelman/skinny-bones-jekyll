@@ -3,4 +3,7 @@
 - title: Portfolio
   url:/portfolio/
   excerpt: "Things I’ve created!"
-  image: 300x200.gif
+  image: bio-photo.jpg
+  
+- title: David Dunkelman
+  url: https://daviddunkelman.github.io/
