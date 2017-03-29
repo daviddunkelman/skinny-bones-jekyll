@@ -12,4 +12,4 @@ defaults:
 permalink: /contact/
 ---
 
-Here i
+Here i.
