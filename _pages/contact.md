@@ -9,7 +9,7 @@ defaults:
       layout: single
       author_profile: true
 	  
-permalink: /contact/
+permalink: /talk/
 ---
 
 Here i.
