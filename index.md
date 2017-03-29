@@ -12,6 +12,7 @@ defaults:
       author_profile: true
 ---
 
+
 <div class="tiles">
 {% for post in site.posts %}
 	{% include post-grid.html %}
