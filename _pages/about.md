@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 defaults:
   # _pages
   - scope:
@@ -8,7 +8,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-	  
 
 permalink: /about/
 ---
