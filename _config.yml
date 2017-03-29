@@ -3,12 +3,12 @@
 
 
 
-title: "David Dunkelman"
+title: David Dunkelman
 description: "This is a description."
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url:
+url: https://daviddunkelman.github.io
 feed:
   path: atom.xml
 
@@ -43,10 +43,11 @@ owner:
 
 
 
-
+include: ["_pages"] 
 
 include:
   - .htaccess
+  
 exclude:
   - "*.less"
   - "*.sublime-project"
