@@ -1,15 +1,15 @@
 # Site navigation links
 
-- title: Portfolio
-  url: /portfolio/
-  excerpt: "Things I’ve created!"
-  image: bio-photo.jpg
-  
 - title: About Me
   url: /about/
   excerpt: "Who am I really?"
   image: bio-photo.jpg
-    
+
+- title: Portfolio
+  url: /portfolio/
+  excerpt: "Things I’ve created!"
+  image: bio-photo.jpg
+     
 - title: Get in touch
   url: /contact/
   excerpt: "Talk to me"
