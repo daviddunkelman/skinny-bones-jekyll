@@ -1,14 +1,5 @@
 ---
-title: "Get in touch"
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-	  
+title: "Get in touch" 
 permalink: /talk/
 ---
 
